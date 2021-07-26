@@ -1,0 +1,4 @@
+#Mon Jul 26 15:03:23 IST 2021
+base.0=E\:\\ERROR\\Unity Hub\\2020.3.6f1\\Projects\\Roller Madness\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
